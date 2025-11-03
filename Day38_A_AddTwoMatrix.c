@@ -1,3 +1,5 @@
+// Add two matrices
+
 #include <stdio.h>
 int main(void){
     int r,c,i,j;
