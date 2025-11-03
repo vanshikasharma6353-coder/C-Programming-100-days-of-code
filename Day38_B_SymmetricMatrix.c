@@ -1,3 +1,5 @@
+// Check if a matrix is symmetric
+
 #include <stdio.h>
 int main(void){
     int n,i,j,flag=1;
