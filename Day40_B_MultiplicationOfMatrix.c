@@ -1,3 +1,5 @@
+// Multiply two matrices
+
 #include <stdio.h>
 int main(void){
     int r1,c1,r2,c2,i,j,k;
