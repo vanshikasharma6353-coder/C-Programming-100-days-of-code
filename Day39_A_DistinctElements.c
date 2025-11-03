@@ -1,3 +1,5 @@
+// Check if the elements on the diagonal of a matrix are distinct
+
 #include <stdio.h>
 int main(void){
     int n,i,j,flag=1;
