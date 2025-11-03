@@ -1,3 +1,5 @@
+// Read and print a matrix
+
 #include <stdio.h>
 int main(void){
     int r,c,i,j;
